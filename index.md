@@ -1,7 +1,5 @@
 ## Riley Snyder
 
-### Intro
-
 * Name: `Riley Snyder`
 
 * Age: `24`
@@ -16,7 +14,7 @@
 
 * Interests: `Storage, Networking, Watching TV, John Mayer`
 
-* Computer: `Thinkpad`
+* Computer: `Thinkpad T480`
 
 * Keyboard: `Poker II`
 
@@ -30,15 +28,23 @@
 
 * OS: `Debian`
 
+* Cloud Provider: `Linode`
+
 * Diet: `Pescetarian`
 
 * Pet: `Louie (Dog, Mut)`
 
-* Favorite Movie: `Planet of the Apes (1969)`
+* Can't Live Without: `Coffee`
 
-* Favorite Show: `True Detective (S01)`
+* Favorite:
 
-* Favorite Food: `Anything With Cheese`
+  * Movie: `Planet of the Apes (1969)`
+
+  * Show: `True Detective (S01)`
+
+  * Food: `Anything With Cheese`
+
+  * Snack: `Takis`
 
 ### 05/28/2020 - Pre-Move Lab
 
