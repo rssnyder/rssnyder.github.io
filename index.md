@@ -1,5 +1,45 @@
 ## Riley Snyder
 
+### Intro
+
+* Name: `Riley Snyder`
+
+* Age: `24`
+
+* Location: `Des Moines, Iowa`
+
+* Occupation: `(AWS) Software Developer @ Principal Financial Group (~3yrs)`
+
+* Things I'm Good At: `Python, Bash, Networking, Terraform, AWS`
+
+* Things I'm Getting Better At: `Go, Javascript`
+
+* Interests: `Storage, Networking, Watching TV, John Mayer`
+
+* Computer: `Thinkpad`
+
+* Keyboard: `Poker II`
+
+* Mouse: `MX Master III`
+
+* Monitor: `Ultrawide`
+
+* Editor: `VS Code (or Vim)`
+
+* Servers: `Too Many`
+
+* OS: `Debian`
+
+* Diet: `Pescetarian`
+
+* Pet: `Louie (Dog, Mut)`
+
+* Favorite Movie: `Planet of the Apes (1969)`
+
+* Favorite Show: `True Detective (S01)`
+
+* Favorite Food: `Anything With Cheese`
+
 ### 05/28/2020 - Pre-Move Lab
 
 ![Image](images/premovelab.jpg)
