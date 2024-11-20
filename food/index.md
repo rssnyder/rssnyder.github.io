@@ -1,6 +1,6 @@
 # Des Moines Food Favorites
 
-Questions, comments, arguemnts, and suggestions: rileysndr@gmail.com
+Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Coffee
   - Beans and Espresso: [Zanzibar's](https://zanzibarscoffee.com/)
@@ -44,13 +44,13 @@ Questions, comments, arguemnts, and suggestions: rileysndr@gmail.com
   - Noodles: [Lucky Lotus](https://www.luckylotusdsm.com/)
   - Crab Rangoons: [Thai Flavors](https://www.thaiflavorsiowa.com/)
 
-## Sandwhich
+## Sandwich
   - [Manhattan Deli](https://hansensmanhattandeli.com/)
     - Veggie Reuben
   - [West Street Deli](https://weststreetdeliames.com/) (in Ames, honorary mention)
 
 ## Italian
-  - [Simons](http://www.simonsdsm.com/)
+  - [Simon's](http://www.simonsdsm.com/)
 
 ## Ice Cream
   - [Dairy Zone](https://www.dairyzonedsm.com/)
