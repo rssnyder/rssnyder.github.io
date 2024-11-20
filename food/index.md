@@ -49,6 +49,14 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
     - Veggie Reuben
   - [West Street Deli](https://weststreetdeliames.com/) (in Ames, honorary mention)
 
+## Brewery
+  - [Lua](https://luabeer.com/)
+    - Impossible Smush Burger
+    - Say Yes (fruited sour)
+
+## Food Truck
+  - [Veggie Thumper](https://www.veggiethumper.com/) (vegan)
+
 ## Italian
   - [Simon's](http://www.simonsdsm.com/)
 
