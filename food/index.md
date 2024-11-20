@@ -3,11 +3,14 @@
 Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Coffee
-  - Beans and Espresso: [Zanzibar's](https://zanzibarscoffee.com/)
-    - Espresso Beans: House Blend
-    - Coffee Beans: Whatever feels good in the moment
+  - Beans: [Zanzibar's](https://zanzibarscoffee.com/)
+    - Espresso: House Blend
+    - Coffee: Whatever feels good in the moment
   - Lattes: [Northern Vessel](https://www.northernvessel.com/)
     - Spanish Latte
+  - Dessert: [Smokey Row](https://smokeyrow.com/)
+    - Chai Latte
+    - Smokey Row Shake
 
 ## Sushi
   - Quality: [Wasabi](https://wasabidsm.com/)
@@ -22,12 +25,12 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
   - Take away / Late night: [Lina's](https://www.facebook.com/LinasMexicanRestaurant/)
     - Shrimp Quesadilla
     - Fish Taco
-    - Queso (the best in DSM)
+    - Queso
   - Taco Truck
     - Taqueria La Esperanza
 
 ## Pizza
-  - [RIP Gusto](https://www.desmoinesregister.com/story/entertainment/dining/2024/05/02/gusto-pizza-bar-des-moines-restaurant-has-closed-its-final-location-ingersoll-avenue/73547076007/)
+  - RIP [Gusto](https://www.desmoinesregister.com/story/entertainment/dining/2024/05/02/gusto-pizza-bar-des-moines-restaurant-has-closed-its-final-location-ingersoll-avenue/73547076007/)
     - Van Helsing
   - [Centro](http://www.centrodesmoines.com/)
     - Gorgonzola Piccante
@@ -62,6 +65,7 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Ice Cream
   - [Dairy Zone](https://www.dairyzonedsm.com/)
+  - [Smokey Row](https://smokeyrow.com/)
 
 ## Drinks
   - [The Lift](https://www.dmlift.com/)
