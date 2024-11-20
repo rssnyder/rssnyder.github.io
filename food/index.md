@@ -29,7 +29,7 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 ## Pizza
   - [RIP Gusto](https://www.desmoinesregister.com/story/entertainment/dining/2024/05/02/gusto-pizza-bar-des-moines-restaurant-has-closed-its-final-location-ingersoll-avenue/73547076007/)
     - Van Helsing
-  - Centro
+  - [Centro](http://www.centrodesmoines.com/)
     - Gorgonzola Piccante
    
 ## Salad
