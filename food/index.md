@@ -45,6 +45,7 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Asian
   - Noodles: [Lucky Lotus](https://www.luckylotusdsm.com/)
+    - Soy Sauce Street Noodles
   - Crab Rangoons: [Thai Flavors](https://www.thaiflavorsiowa.com/)
 
 ## Sandwich
@@ -59,13 +60,13 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Food Truck
   - [Veggie Thumper](https://www.veggiethumper.com/) (vegan)
+    - Frisco Melt
 
 ## Italian
   - [Simon's](http://www.simonsdsm.com/)
 
 ## Ice Cream
   - [Dairy Zone](https://www.dairyzonedsm.com/)
-  - [Smokey Row](https://smokeyrow.com/)
 
 ## Drinks
   - [The Lift](https://www.dmlift.com/)
