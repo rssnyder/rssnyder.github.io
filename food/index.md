@@ -34,6 +34,9 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
     - Van Helsing
   - [Centro](http://www.centrodesmoines.com/)
     - Gorgonzola Piccante
+    - Pizza Blanco
+  - [Parlor](https://www.parlordsm.com/)
+    - Sweet Jane
    
 ## Salad
   - [Gateway Market](https://www.gatewaymarket.com/)
@@ -46,7 +49,9 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 ## Asian
   - Noodles: [Lucky Lotus](https://www.luckylotusdsm.com/)
     - Soy Sauce Street Noodles
+    - Crispy Rice Wrap
   - Crab Rangoons: [Thai Flavors](https://www.thaiflavorsiowa.com/)
+    - Curry Noodles
 
 ## Sandwich
   - [Manhattan Deli](https://hansensmanhattandeli.com/)
