@@ -15,8 +15,8 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 ## Sushi
   - Quality: [Wasabi](https://wasabidsm.com/)
     - Out of Control
-  - Quantity: [Oh Sushi](https://www.facebook.com/Ohsushioh/)
-    - Anger Management
+  - ~~Quantity: [Oh Sushi](https://www.facebook.com/Ohsushioh/)~~
+    - ~~Anger Management~~ they have both removed the all you can eat and this roll from the menu
   - Poke Bowls: [Gateway Market](https://www.gatewaymarket.com/)
 
 ## Mexican
@@ -75,3 +75,4 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Drinks
   - [The Lift](https://www.dmlift.com/)
+  - Carl's
