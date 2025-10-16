@@ -1,1 +1,1 @@
-[food](https://rileysndr.dev/food)
+[food](https://rileysnyder.dev/food)
