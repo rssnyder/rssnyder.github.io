@@ -28,6 +28,8 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
     - Queso
   - Taco Truck
     - Taqueria La Esperanza
+  - Tacos
+    - Faustinos Taqueria (2 blocks from my house)
 
 ## Pizza
   - RIP [Gusto](https://www.desmoinesregister.com/story/entertainment/dining/2024/05/02/gusto-pizza-bar-des-moines-restaurant-has-closed-its-final-location-ingersoll-avenue/73547076007/)
@@ -37,6 +39,7 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
     - Pizza Blanco
   - [Parlor](https://www.parlordsm.com/)
     - Sweet Jane
+  - [Taste of New York](https://tasteofnypizza.com/) for everything else
    
 ## Salad
   - [Gateway Market](https://www.gatewaymarket.com/)
@@ -50,8 +53,10 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
   - Noodles: [Lucky Lotus](https://www.luckylotusdsm.com/)
     - Soy Sauce Street Noodles
     - Crispy Rice Wrap
-  - Crab Rangoons: [Thai Flavors](https://www.thaiflavorsiowa.com/)
+  - ~~Crab Rangoons: [Thai Flavors](https://www.thaiflavorsiowa.com/)~~
     - Curry Noodles
+  - Crab Rangoons: [All Pho You](https://allphoyoudsm.com/)
+    - Everything is good here
 
 ## Sandwich
   - [Manhattan Deli](https://hansensmanhattandeli.com/)
@@ -72,7 +77,9 @@ Questions, comments, arguments, and suggestions: rileysndr@gmail.com
 
 ## Ice Cream
   - [Dairy Zone](https://www.dairyzonedsm.com/)
+  - [Snookies](https://www.snookiesmaltshop.com/) (a close second)
 
 ## Drinks
   - [The Lift](https://www.dmlift.com/)
   - Carl's
+  - Black Sheep
