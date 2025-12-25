@@ -61,6 +61,13 @@ This year was busy yet again, and I want to thank everyone reading this for all 
 First off, lots of coffee:
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/08b01d31-540a-4d4c-8c0f-87e7a4f43639" />
 
+And shows:
+<img width="956" height="720" alt="image" src="https://github.com/user-attachments/assets/abe86e8c-6e25-4007-816f-978ecd1fddcc" />
+<img width="956" height="720" alt="image" src="https://github.com/user-attachments/assets/601a3800-4757-4b65-bad8-fbf2db3bbdf0" />
+
+Plenty of rides for beers:
+<img width="956" height="720" alt="image" src="https://github.com/user-attachments/assets/27dec3d3-4b28-45f8-893a-3a0352d55439" />
+
 Growing my datacenter, and plant children:
 <img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/448fb8dd-4b48-4c74-948a-b6f7585303fd" />
 
